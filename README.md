@@ -95,12 +95,6 @@ file-sharing-app/
    
 
 
-### Instructions
-1. Replace `https://github.com/Anilnayak126/FileSharingApp.git` with the actual URL of your GitHub repository.
-2. Update the email address in the contact section to your actual email.
-3. Save this content as `README.md` in your project directory.
-
-This enhanced `README.md` provides a detailed overview of your project, guiding users on setup, features, and potential future improvements!
 
    
 
